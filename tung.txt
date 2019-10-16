@@ -1,6 +1,10 @@
 lan 1 
 lan 2
 lan 3
+<<<<<<< HEAD
 sadsadasgf324u23842394
 adaddsdadsadsdsa
 1213242424
+=======
+adaddsdadsadsdsa
+>>>>>>> parent of d92c8a4... lan cuoi cung nua
